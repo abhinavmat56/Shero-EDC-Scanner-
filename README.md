@@ -1,7 +1,7 @@
-# Shero 🌸 — EDC Label Scanner
+# Shero — EDC Label Scanner
 
-Scan (or paste) an ingredient list and Shero tells you which endocrine-disrupting
-chemicals (EDCs) are in it, how risky they are, and what to watch out for.
+Scan or paste an ingredient list and Shero tells you which endocrine disrupting
+chemicals (EDCs) are in it, how risky they are and what to watch out for.
 
 ## What changed from the original prototype
 
