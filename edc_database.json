@@ -1,0 +1,1651 @@
+{
+  "BPA": {
+    "full_name": "Bisphenol A",
+    "aliases": [
+      "BPA"
+    ],
+    "category": "Bisphenol",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "plastic bottles, food containers, receipts"
+    ],
+    "health_effects": [
+      "mimic estrogen, disrupt endocrine function, reproductive issues"
+    ],
+    "scientific_summary": "BPA is a chemical used in the production of polycarbonate plastics and epoxy resins. It can leach into food and beverages from containers made with BPA, leading to potential health risks.",
+    "regulatory_status": [
+      "Banned in baby bottles in many countries; restrictions on use win food contact materials."
+    ],
+    "recommendations": [
+      "Avoid using plastic containers with BPA, especially for hot foods and liquids. Opt for BPA-free products."
+    ]
+  },
+  "Butylparaben": {
+    "aliases": [
+      "BP"
+    ],
+    "category": "Paraben",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Moisturizers",
+      "Makeup",
+      "Deodorants"
+    ],
+    "health_effects": [
+      "Estrogen mimicry",
+      "Fertility issues",
+      "Hormone imbalance"
+    ],
+    "scientific_summary": "Preservative with estrogen-like activity.",
+    "regulatory_status": "Restricted in cosmetics in several countries."
+  },
+  "Propylparaben": {
+    "aliases": [
+      "PP",
+      "INS 216",
+      "E216"
+    ],
+    "category": "Paraben",
+    "is_edc": true,
+    "risk_level": "Medium-High",
+    "found_in": [
+      "Creams",
+      "Shampoos"
+    ],
+    "health_effects": [
+      "Hormone imbalance",
+      "Reproductive effects"
+    ],
+    "scientific_summary": "Preservative with potential endocrine activity.",
+    "regulatory_status": "Restricted in some cosmetic products."
+  },
+  "Diethyl Phthalate": {
+    "aliases": [
+      "DEP"
+    ],
+    "category": "Phthalate",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Perfumes",
+      "Lotions"
+    ],
+    "health_effects": [
+      "Hormone disruption",
+      "Menstrual irregularities"
+    ],
+    "scientific_summary": "Fragrance solvent with endocrine concerns.",
+    "regulatory_status": "Permitted with restrictions."
+  },
+  "Dibutyl Phthalate": {
+    "aliases": [
+      "DBP"
+    ],
+    "category": "Phthalate",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Nail polish"
+    ],
+    "health_effects": [
+      "Reproductive toxicity",
+      "Fertility issues"
+    ],
+    "scientific_summary": "Plasticizer affecting reproductive hormones.",
+    "regulatory_status": "Restricted in cosmetics."
+  },
+  "Triclosan": {
+    "aliases": [
+      "TCS"
+    ],
+    "category": "Antimicrobial",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Soaps",
+      "Toothpaste"
+    ],
+    "health_effects": [
+      "Thyroid disruption",
+      "Hormone imbalance"
+    ],
+    "scientific_summary": "Antibacterial chemical with endocrine effects.",
+    "regulatory_status": "Banned in many antibacterial soaps."
+  },
+  "Oxybenzone": {
+    "aliases": [
+      "BP-3"
+    ],
+    "category": "UV Filter",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Sunscreens"
+    ],
+    "health_effects": [
+      "Estrogen mimicry",
+      "Thyroid disruption"
+    ],
+    "scientific_summary": "UV filter absorbed through skin.",
+    "regulatory_status": "Restricted in some regions."
+  },
+  "Benzophenone": {
+    "aliases": [
+      "BP"
+    ],
+    "category": "UV Stabilizer",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Lipsticks",
+      "Perfumes"
+    ],
+    "health_effects": [
+      "Hormone disruption"
+    ],
+    "scientific_summary": "UV stabilizer with suspected endocrine activity.",
+    "regulatory_status": "Under regulatory review."
+  },
+  "Bisphenol A": {
+    "aliases": [
+      "BPA"
+    ],
+    "category": "Bisphenol",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Plastic packaging"
+    ],
+    "health_effects": [
+      "PCOS risk",
+      "Fertility issues"
+    ],
+    "scientific_summary": "Plastic chemical binding estrogen receptors.",
+    "regulatory_status": "Restricted in baby products."
+  },
+  "PFAS": {
+    "aliases": [
+      "PFAS"
+    ],
+    "category": "Fluorinated Chemicals",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Waterproof makeup"
+    ],
+    "health_effects": [
+      "Thyroid disruption",
+      "Fertility issues"
+    ],
+    "scientific_summary": "Persistent chemicals accumulating in the body.",
+    "regulatory_status": "Increasingly restricted."
+  },
+  "DMDM Hydantoin": {
+    "aliases": [
+      "DMDM Hydantoin"
+    ],
+    "category": "Preservative",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Shampoos"
+    ],
+    "health_effects": [
+      "Hormone concerns",
+      "Skin irritation"
+    ],
+    "scientific_summary": "Formaldehyde-releasing preservative.",
+    "regulatory_status": "Allowed within safety limits."
+  },
+  "Methylparaben": {
+    "aliases": [
+      "MP",
+      "INS 218",
+      "E218"
+    ],
+    "category": "Paraben",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Face washes"
+    ],
+    "health_effects": [
+      "Estrogen mimicry",
+      "Hormone imbalance"
+    ],
+    "scientific_summary": "Weak estrogen-like preservative.",
+    "regulatory_status": "Allowed with limits."
+  },
+  "Ethylparaben": {
+    "aliases": [
+      "EP",
+      "INS 214",
+      "E214"
+    ],
+    "category": "Paraben",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Lotions"
+    ],
+    "health_effects": [
+      "Hormone imbalance",
+      "Reproductive concerns"
+    ],
+    "scientific_summary": "Paraben preservative.",
+    "regulatory_status": "Allowed with limits."
+  },
+  "Resorcinol": {
+    "aliases": [
+      "Resorcinol"
+    ],
+    "category": "Hair Dye",
+    "is_edc": true,
+    "risk_level": "Medium-High",
+    "found_in": [
+      "Hair dyes"
+    ],
+    "health_effects": [
+      "Thyroid disruption",
+      "Skin irritation"
+    ],
+    "scientific_summary": "May interfere with thyroid hormones.",
+    "regulatory_status": "Restricted."
+  },
+  "Homosalate": {
+    "aliases": [
+      "Homosalate"
+    ],
+    "category": "UV Filter",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "SPF products"
+    ],
+    "health_effects": [
+      "Estrogen mimicry",
+      "Reproductive concerns"
+    ],
+    "scientific_summary": "UV filter with suspected endocrine activity.",
+    "regulatory_status": "Concentration limits apply."
+  },
+  "Octinoxate": {
+    "aliases": [
+      "Octinoxate"
+    ],
+    "category": "UV Filter",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Sunscreens"
+    ],
+    "health_effects": [
+      "Thyroid disruption",
+      "Reproductive concerns"
+    ],
+    "scientific_summary": "Common UV filter.",
+    "regulatory_status": "Restricted in some regions."
+  },
+  "Cyclotetrasiloxane": {
+    "aliases": [
+      "D4"
+    ],
+    "category": "Silicone",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Hair serums"
+    ],
+    "health_effects": [
+      "Reproductive toxicity",
+      "Hormone imbalance"
+    ],
+    "scientific_summary": "Silicone with reproductive concerns.",
+    "regulatory_status": "Restricted in rinse-off cosmetics."
+  },
+  "Cyclopentasiloxane": {
+    "aliases": [
+      "D5"
+    ],
+    "category": "Silicone",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Conditioners"
+    ],
+    "health_effects": [
+      "Hormone imbalance"
+    ],
+    "scientific_summary": "Silicone under evaluation.",
+    "regulatory_status": "Restricted in some products."
+  },
+  "Benzyl Butyl Phthalate": {
+    "aliases": [
+      "BBP"
+    ],
+    "category": "Phthalate",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Nail polish"
+    ],
+    "health_effects": [
+      "Fertility issues",
+      "Hormone disruption"
+    ],
+    "scientific_summary": "Plasticizer with endocrine activity.",
+    "regulatory_status": "Restricted."
+  },
+  "Bisphenol S": {
+    "aliases": [
+      "BPS"
+    ],
+    "category": "Bisphenol",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Plastic packaging"
+    ],
+    "health_effects": [
+      "Estrogen mimicry",
+      "Thyroid disruption"
+    ],
+    "scientific_summary": "BPA substitute with similar effects.",
+    "regulatory_status": "Under review."
+  },
+  "Bisphenol F": {
+    "aliases": [
+      "BPF"
+    ],
+    "category": "Bisphenol",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Plastic containers"
+    ],
+    "health_effects": [
+      "Hormone imbalance"
+    ],
+    "scientific_summary": "BPA alternative with endocrine activity.",
+    "regulatory_status": "Under review."
+  },
+  "Triclocarban": {
+    "aliases": [
+      "TCC"
+    ],
+    "category": "Antimicrobial",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Body washes"
+    ],
+    "health_effects": [
+      "Hormone disruption",
+      "Fertility concerns"
+    ],
+    "scientific_summary": "Antimicrobial affecting hormone signaling.",
+    "regulatory_status": "Restricted."
+  },
+  "Nonylphenol": {
+    "aliases": [
+      "NP"
+    ],
+    "category": "Alkylphenol",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Detergents",
+      "Cosmetics"
+    ],
+    "health_effects": [
+      "Estrogen mimicry",
+      "Reproductive toxicity"
+    ],
+    "scientific_summary": "Industrial estrogen mimic.",
+    "regulatory_status": "Restricted."
+  },
+  "Octylphenol": {
+    "aliases": [
+      "OP"
+    ],
+    "category": "Alkylphenol",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Hair dyes"
+    ],
+    "health_effects": [
+      "Fertility issues",
+      "Developmental effects"
+    ],
+    "scientific_summary": "Industrial endocrine disruptor.",
+    "regulatory_status": "Restricted."
+  },
+  "Perfluorooctanoic Acid": {
+    "aliases": [
+      "PFOA"
+    ],
+    "category": "PFAS",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Food packaging"
+    ],
+    "health_effects": [
+      "Thyroid disruption",
+      "Fertility issues"
+    ],
+    "scientific_summary": "Persistent PFAS chemical.",
+    "regulatory_status": "Phased out/restricted."
+  },
+  "Perfluorooctane Sulfonate": {
+    "aliases": [
+      "PFOS"
+    ],
+    "category": "PFAS",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Waterproof cosmetics"
+    ],
+    "health_effects": [
+      "Hormone imbalance",
+      "Thyroid effects"
+    ],
+    "scientific_summary": "Persistent PFAS chemical.",
+    "regulatory_status": "Restricted."
+  },
+  "Perfluorohexane Sulfonate": {
+    "aliases": [
+      "PFHxS"
+    ],
+    "category": "PFAS",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Cosmetics"
+    ],
+    "health_effects": [
+      "Thyroid disruption",
+      "Fertility concerns"
+    ],
+    "scientific_summary": "Persistent PFAS.",
+    "regulatory_status": "Restricted."
+  },
+  "Perchlorate": {
+    "aliases": [
+      "Perchlorate"
+    ],
+    "category": "Industrial Chemical",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Drinking water"
+    ],
+    "health_effects": [
+      "Thyroid disruption",
+      "Developmental effects"
+    ],
+    "scientific_summary": "Blocks iodine uptake.",
+    "regulatory_status": "Monitored in water."
+  },
+  "Cadmium": {
+    "aliases": [
+      "Cd"
+    ],
+    "category": "Heavy Metal",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Some cosmetics"
+    ],
+    "health_effects": [
+      "Estrogen mimicry",
+      "Kidney damage"
+    ],
+    "scientific_summary": "Heavy metal with endocrine effects.",
+    "regulatory_status": "Strictly regulated."
+  },
+  "Lead": {
+    "aliases": [
+      "Pb"
+    ],
+    "category": "Heavy Metal",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Traditional cosmetics"
+    ],
+    "health_effects": [
+      "Pregnancy complications",
+      "Infertility"
+    ],
+    "scientific_summary": "Heavy metal affecting endocrine system.",
+    "regulatory_status": "Strictly regulated."
+  },
+  "Styrene": {
+    "aliases": [
+      "Styrene"
+    ],
+    "category": "Plastic Monomer",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Cosmetic packaging"
+    ],
+    "health_effects": [
+      "Hormone disruption",
+      "Reproductive concerns"
+    ],
+    "scientific_summary": "Plastic monomer with suspected endocrine effects.",
+    "regulatory_status": "Regulated."
+  },
+  "Atrazine": {
+    "aliases": [
+      "ATZ"
+    ],
+    "category": "Herbicide",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Agricultural runoff",
+      "Contaminated drinking water",
+      "Corn and crop fields"
+    ],
+    "health_effects": [
+      "Disrupts hypothalamus-pituitary-gonadal axis",
+      "Menstrual cycle irregularities",
+      "Reduced fertility"
+    ],
+    "scientific_summary": "One of the most widely used herbicides in the US; interferes with reproductive hormone signaling and has been linked to menstrual cycle disruption and developmental effects in animal studies.",
+    "regulatory_status": "Banned in the EU; still used with restrictions in the US.",
+    "recommendations": [
+      "Use a water filter rated for atrazine removal if on well water",
+      "Choose organic produce where feasible"
+    ]
+  },
+  "Chlorpyrifos": {
+    "aliases": [
+      "CPF"
+    ],
+    "category": "Pesticide",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Non-organic produce",
+      "Agricultural residues"
+    ],
+    "health_effects": [
+      "Hormone and metabolic disruption",
+      "Placental toxicity",
+      "Neurodevelopmental effects"
+    ],
+    "scientific_summary": "An organophosphate insecticide recognized for both neurotoxic and endocrine-disrupting effects, including interference with metabolic hormone pathways.",
+    "regulatory_status": "Banned for food crop use in the EU and US as of the early 2020s; still used in some countries.",
+    "recommendations": [
+      "Wash produce thoroughly",
+      "Choose organic where possible for high-residue crops"
+    ]
+  },
+  "Glyphosate": {
+    "aliases": [
+      "Roundup"
+    ],
+    "category": "Herbicide",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Conventionally grown grains",
+      "Agricultural runoff"
+    ],
+    "health_effects": [
+      "Testosterone reduction (animal studies)",
+      "Possible reproductive cell effects"
+    ],
+    "scientific_summary": "The world's most widely used herbicide; evidence for endocrine effects is less consistent than for other pesticides, and its overall risk classification remains actively debated among regulators.",
+    "regulatory_status": "Approved with restrictions in the US and EU; classified as a probable carcinogen by IARC, a classification disputed by other agencies.",
+    "recommendations": [
+      "Choose organic grains and legumes where feasible"
+    ]
+  },
+  "DDT": {
+    "aliases": [
+      "Dichlorodiphenyltrichloroethane",
+      "DDE"
+    ],
+    "category": "Persistent Organic Pollutant",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Legacy soil/water contamination",
+      "Some imported foods"
+    ],
+    "health_effects": [
+      "Estrogen mimicry",
+      "Breast cancer risk (in utero exposure)",
+      "Reproductive effects"
+    ],
+    "scientific_summary": "A banned but highly persistent pesticide that still lingers in soil, water, and the food chain decades after use; in-utero exposure has been linked to later-life breast cancer risk.",
+    "regulatory_status": "Banned in most countries since the 1970s-80s, but persists in the environment.",
+    "recommendations": [
+      "Awareness only — exposure today is mostly from legacy environmental contamination, not consumer choices"
+    ]
+  },
+  "Permethrin": {
+    "aliases": [
+      "Permethrin"
+    ],
+    "category": "Pesticide",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Insect repellents",
+      "Treated clothing",
+      "Head lice treatments"
+    ],
+    "health_effects": [
+      "Hormone signaling interference",
+      "Reproductive effects in animal studies"
+    ],
+    "scientific_summary": "A synthetic pyrethroid insecticide with documented estrogenic activity, used widely in consumer pest-control and personal insect-repellent products.",
+    "regulatory_status": "Approved for use with exposure guidelines in most countries.",
+    "recommendations": [
+      "Follow label directions for treated clothing and skip reapplication when not needed"
+    ]
+  },
+  "Di(2-ethylhexyl) Phthalate": {
+    "aliases": [
+      "DEHP"
+    ],
+    "category": "Phthalate",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "PVC food packaging",
+      "Medical tubing",
+      "Vinyl flooring",
+      "Processed/fast food"
+    ],
+    "health_effects": [
+      "Reproductive toxicity",
+      "Anti-androgenic effects",
+      "Metabolic disruption"
+    ],
+    "scientific_summary": "The most widely used plasticizer worldwide; leaches from PVC packaging into food and has been linked to reproductive, hepatic, and metabolic effects in extensive animal and human research.",
+    "regulatory_status": "Restricted in children's products and food contact materials in the EU and US.",
+    "recommendations": [
+      "Avoid microwaving food in plastic",
+      "Choose fresh over heavily packaged/fast food when possible",
+      "Store food in glass or stainless steel"
+    ]
+  },
+  "Diisononyl Phthalate": {
+    "aliases": [
+      "DINP"
+    ],
+    "category": "Phthalate",
+    "is_edc": true,
+    "risk_level": "Medium-High",
+    "found_in": [
+      "Vinyl toys",
+      "Flexible plastic packaging"
+    ],
+    "health_effects": [
+      "Hormone disruption",
+      "Developmental effects"
+    ],
+    "scientific_summary": "A common DEHP substitute plasticizer with a similar, if less-studied, endocrine-disrupting profile.",
+    "regulatory_status": "Restricted in children's toys in the EU and several US states.",
+    "recommendations": [
+      "Choose phthalate-free labeled toys and containers"
+    ]
+  },
+  "Dimethyl Phthalate": {
+    "aliases": [
+      "DMP"
+    ],
+    "category": "Phthalate",
+    "is_edc": true,
+    "risk_level": "Low",
+    "found_in": [
+      "Nail polish",
+      "Insect repellents",
+      "Some fragrances"
+    ],
+    "health_effects": [
+      "Mild hormone disruption (lower potency than larger phthalates)"
+    ],
+    "scientific_summary": "A lower-molecular-weight phthalate generally considered less potent than DEHP or DBP, but still under review for endocrine activity.",
+    "regulatory_status": "Permitted with restrictions in cosmetics.",
+    "recommendations": [
+      "Look for phthalate-free nail polish where available"
+    ]
+  },
+  "Polyvinyl Chloride Additives": {
+    "aliases": [
+      "PVC",
+      "Vinyl"
+    ],
+    "category": "Plastic",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Food wrap",
+      "Plumbing",
+      "Shower curtains",
+      "Vinyl flooring"
+    ],
+    "health_effects": [
+      "Leaches associated phthalates and stabilizers with hormone effects"
+    ],
+    "scientific_summary": "PVC itself is inert, but the plasticizers and stabilizers (often phthalates or organotins) added to make it flexible are common sources of endocrine-disrupting exposure.",
+    "regulatory_status": "Widely used; specific additives are separately regulated.",
+    "recommendations": [
+      "Choose PVC-free food wrap and containers where labeled"
+    ]
+  },
+  "Bisphenol AF": {
+    "aliases": [
+      "BPAF"
+    ],
+    "category": "Bisphenol",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Some plastic packaging",
+      "Thermal paper"
+    ],
+    "health_effects": [
+      "Stronger estrogenic activity than BPA in some studies"
+    ],
+    "scientific_summary": "One of several BPA-replacement bisphenols; some research suggests it binds estrogen receptors even more strongly than BPA itself.",
+    "regulatory_status": "Under regulatory review in several countries.",
+    "recommendations": [
+      "Avoid handling thermal receipt paper excessively; wash hands after"
+    ]
+  },
+  "Polybrominated Diphenyl Ethers": {
+    "aliases": [
+      "PBDE"
+    ],
+    "category": "Flame Retardant",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Furniture foam",
+      "Electronics",
+      "Household dust"
+    ],
+    "health_effects": [
+      "Thyroid hormone disruption",
+      "Neurodevelopmental effects"
+    ],
+    "scientific_summary": "A class of flame retardants once widely used in furniture and electronics; they accumulate in household dust and are strongly linked to thyroid hormone disruption.",
+    "regulatory_status": "Phased out of production in the US and EU, but persist in older furniture and electronics.",
+    "recommendations": [
+      "Vacuum with a HEPA filter regularly",
+      "Replace worn foam furniture with PBDE-free labeled products"
+    ]
+  },
+  "Tetrabromobisphenol A": {
+    "aliases": [
+      "TBBPA"
+    ],
+    "category": "Flame Retardant",
+    "is_edc": true,
+    "risk_level": "Medium-High",
+    "found_in": [
+      "Electronics casings",
+      "Circuit boards"
+    ],
+    "health_effects": [
+      "Thyroid hormone disruption"
+    ],
+    "scientific_summary": "The most widely produced brominated flame retardant, structurally related to BPA, with documented thyroid-disrupting activity.",
+    "regulatory_status": "Under review in several jurisdictions.",
+    "recommendations": [
+      "Dust and ventilate spaces with lots of electronics regularly"
+    ]
+  },
+  "Tris(1,3-dichloro-2-propyl) Phosphate": {
+    "aliases": [
+      "TDCPP",
+      "Chlorinated Tris"
+    ],
+    "category": "Flame Retardant",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Furniture foam",
+      "Children's products",
+      "Car seats"
+    ],
+    "health_effects": [
+      "Hormone disruption",
+      "Reduced fertility (animal studies)"
+    ],
+    "scientific_summary": "A flame retardant once removed from children's pajamas for cancer concerns in the 1970s, but later reintroduced into furniture foam; linked to reproductive and hormone effects.",
+    "regulatory_status": "Restricted in children's products in several US states.",
+    "recommendations": [
+      "Look for 'TB117-2013 compliant, no added flame retardants' labels on furniture"
+    ]
+  },
+  "Perfluorononanoic Acid": {
+    "aliases": [
+      "PFNA"
+    ],
+    "category": "PFAS",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Non-stick cookware",
+      "Water-resistant fabrics"
+    ],
+    "health_effects": [
+      "Thyroid disruption",
+      "Developmental effects"
+    ],
+    "scientific_summary": "A long-chain PFAS chemical, part of the same 'forever chemical' family as PFOA and PFOS, with similar thyroid and developmental concerns.",
+    "regulatory_status": "Increasingly restricted alongside other long-chain PFAS.",
+    "recommendations": [
+      "Choose PFAS-free cookware and water-resistant gear where labeled"
+    ]
+  },
+  "GenX": {
+    "aliases": [
+      "HFPO-DA"
+    ],
+    "category": "PFAS",
+    "is_edc": true,
+    "risk_level": "Medium-High",
+    "found_in": [
+      "Non-stick coatings",
+      "Drinking water near manufacturing sites"
+    ],
+    "health_effects": [
+      "Thyroid and liver effects",
+      "Suspected endocrine disruption"
+    ],
+    "scientific_summary": "A short-chain PFAS developed as a replacement for PFOA; marketed as safer, but emerging research still raises thyroid and endocrine concerns.",
+    "regulatory_status": "Regulated in drinking water in the US under EPA PFAS rules.",
+    "recommendations": [
+      "Use a water filter certified for PFAS removal if in an affected area"
+    ]
+  },
+  "Mercury": {
+    "aliases": [
+      "Hg"
+    ],
+    "category": "Heavy Metal",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Large predatory fish",
+      "Some skin-lightening creams",
+      "Dental amalgam"
+    ],
+    "health_effects": [
+      "Thyroid disruption",
+      "Fetal neurodevelopmental harm"
+    ],
+    "scientific_summary": "A heavy metal that disrupts thyroid hormone regulation and is especially harmful to fetal brain development; bioaccumulates up the food chain in fish.",
+    "regulatory_status": "Strictly regulated; banned in most skin-lightening products.",
+    "recommendations": [
+      "Limit high-mercury fish (shark, swordfish, king mackerel) during pregnancy",
+      "Avoid unregulated skin-lightening creams"
+    ]
+  },
+  "Arsenic": {
+    "aliases": [
+      "As"
+    ],
+    "category": "Heavy Metal",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Contaminated well water",
+      "Rice and rice products"
+    ],
+    "health_effects": [
+      "Glucocorticoid and thyroid disruption",
+      "Diabetes risk"
+    ],
+    "scientific_summary": "A naturally occurring and industrial contaminant that interferes with glucocorticoid receptor signaling and has been linked to increased diabetes risk.",
+    "regulatory_status": "Regulated in drinking water; monitored in rice products.",
+    "recommendations": [
+      "Rinse rice before cooking and use excess water, drained after cooking",
+      "Test well water if applicable"
+    ]
+  },
+  "Polychlorinated Biphenyls": {
+    "aliases": [
+      "PCBs"
+    ],
+    "category": "Industrial Chemical",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Legacy building materials",
+      "Fatty fish from contaminated waters"
+    ],
+    "health_effects": [
+      "Thyroid disruption",
+      "Reproductive and developmental toxicity"
+    ],
+    "scientific_summary": "Banned industrial chemicals once used in electrical equipment; they persist for decades in soil, water, and animal fat, and remain a well-established thyroid and reproductive disruptor.",
+    "regulatory_status": "Banned in most countries since the late 1970s-80s, but persist in the environment.",
+    "recommendations": [
+      "Follow local fish consumption advisories for waters with known contamination"
+    ]
+  },
+  "Dioxins": {
+    "aliases": [
+      "TCDD"
+    ],
+    "category": "Industrial Byproduct",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Animal fat",
+      "Industrial combustion byproducts"
+    ],
+    "health_effects": [
+      "Severe endocrine and reproductive disruption",
+      "Immune suppression"
+    ],
+    "scientific_summary": "Byproducts of industrial combustion and certain manufacturing processes; among the most potent known endocrine disruptors, accumulating in animal fat over a lifetime.",
+    "regulatory_status": "Strictly regulated; emissions controls in place in most industrialized countries.",
+    "recommendations": [
+      "Choose leaner cuts of meat and trim visible fat to reduce dietary exposure"
+    ]
+  },
+  "Galaxolide": {
+    "aliases": [
+      "HHCB"
+    ],
+    "category": "Synthetic Musk",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Perfumes",
+      "Scented lotions",
+      "Laundry detergents"
+    ],
+    "health_effects": [
+      "Suspected hormone disruption",
+      "Bioaccumulation in body fat"
+    ],
+    "scientific_summary": "One of the most common synthetic musks in fragranced products; it bioaccumulates in human fat tissue and breast milk, with emerging evidence of endocrine activity.",
+    "regulatory_status": "Under review in the EU; permitted with concentration limits.",
+    "recommendations": [
+      "Choose fragrance-free or naturally scented products where possible"
+    ]
+  },
+  "4-Methylbenzylidene Camphor": {
+    "aliases": [
+      "4-MBC",
+      "Enzacamene"
+    ],
+    "category": "UV Filter",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Sunscreens",
+      "SPF cosmetics"
+    ],
+    "health_effects": [
+      "Thyroid disruption",
+      "Estrogen mimicry (animal studies)"
+    ],
+    "scientific_summary": "A chemical UV filter with documented thyroid and estrogenic effects in animal studies, less common than oxybenzone but still used in some sunscreen formulations.",
+    "regulatory_status": "Banned in cosmetics in the EU as of 2023.",
+    "recommendations": [
+      "Choose mineral sunscreens (zinc oxide, titanium dioxide) as an alternative"
+    ]
+  },
+  "Formaldehyde": {
+    "aliases": [
+      "Formalin"
+    ],
+    "category": "Preservative",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Hair straightening treatments",
+      "Nail polish",
+      "Some preservative releasers"
+    ],
+    "health_effects": [
+      "Hormone disruption",
+      "Known human carcinogen"
+    ],
+    "scientific_summary": "A preservative and hair-treatment chemical classified as a human carcinogen, with additional evidence of endocrine-disrupting activity at lower exposure levels.",
+    "regulatory_status": "Restricted concentration limits in cosmetics; banned in some hair-straightening products.",
+    "recommendations": [
+      "Avoid formaldehyde-releasing hair treatments ('Brazilian blowouts')",
+      "Check ingredient lists for formaldehyde-releasing preservatives (e.g., quaternium-15, DMDM hydantoin)"
+    ]
+  },
+  "Isobutylparaben": {
+    "aliases": [
+      "IBP"
+    ],
+    "category": "Paraben",
+    "is_edc": true,
+    "risk_level": "Medium-High",
+    "found_in": [
+      "Cosmetics",
+      "Moisturizers"
+    ],
+    "health_effects": [
+      "Estrogen mimicry",
+      "Hormone imbalance"
+    ],
+    "scientific_summary": "A longer-chain paraben with stronger estrogenic activity than methyl- or ethylparaben.",
+    "regulatory_status": "Banned in cosmetics in the EU.",
+    "recommendations": [
+      "Choose paraben-free labeled products"
+    ]
+  },
+  "Isopropylparaben": {
+    "aliases": [
+      "IPP"
+    ],
+    "category": "Paraben",
+    "is_edc": true,
+    "risk_level": "Medium-High",
+    "found_in": [
+      "Cosmetics",
+      "Lotions"
+    ],
+    "health_effects": [
+      "Hormone disruption"
+    ],
+    "scientific_summary": "A branched-chain paraben banned in the EU due to endocrine-disrupting concerns.",
+    "regulatory_status": "Banned in cosmetics in the EU.",
+    "recommendations": [
+      "Choose paraben-free labeled products"
+    ]
+  },
+  "Octocrylene": {
+    "aliases": [
+      "Octocrylene"
+    ],
+    "category": "UV Filter",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Sunscreens",
+      "Moisturizers with SPF"
+    ],
+    "health_effects": [
+      "Suspected hormone disruption",
+      "Degrades into benzophenone over time"
+    ],
+    "scientific_summary": "A common chemical UV filter that has been found to degrade into benzophenone, itself a suspected endocrine disruptor, especially in older or improperly stored products.",
+    "regulatory_status": "Permitted with concentration limits; under continued review.",
+    "recommendations": [
+      "Replace sunscreen yearly rather than using expired products",
+      "Consider mineral sunscreen alternatives"
+    ]
+  },
+  "Triphenyl Phosphate": {
+    "aliases": [
+      "TPHP",
+      "TPP"
+    ],
+    "category": "Plasticizer/Flame Retardant",
+    "is_edc": true,
+    "risk_level": "Medium-High",
+    "found_in": [
+      "Nail polish",
+      "Furniture foam"
+    ],
+    "health_effects": [
+      "Hormone and metabolic disruption"
+    ],
+    "scientific_summary": "Used both as a plasticizer in nail polish and a flame retardant in foam products; associated with metabolic and reproductive hormone disruption.",
+    "regulatory_status": "Under regulatory review in several countries.",
+    "recommendations": [
+      "Look for '3-free' or '10-free' labeled nail polish (excludes TPHP and similar chemicals)"
+    ]
+  },
+  "Butylated Hydroxyanisole": {
+    "aliases": [
+      "BHA",
+      "INS 320",
+      "E320"
+    ],
+    "category": "Food Preservative",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Processed/packaged snack foods",
+      "Cereal",
+      "Chewing gum"
+    ],
+    "health_effects": [
+      "Estrogen mimicry",
+      "Suspected carcinogen"
+    ],
+    "scientific_summary": "A synthetic antioxidant preservative with documented estrogenic activity in animal studies, commonly used to extend shelf life in packaged foods.",
+    "regulatory_status": "Permitted with limits in the US; classified as a possible carcinogen by IARC.",
+    "recommendations": [
+      "Choose foods preserved with vitamin E (tocopherols) instead where labeled"
+    ]
+  },
+  "Butylated Hydroxytoluene": {
+    "aliases": [
+      "BHT",
+      "INS 321",
+      "E321"
+    ],
+    "category": "Food Preservative",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Packaged snack foods",
+      "Cereal",
+      "Food packaging"
+    ],
+    "health_effects": [
+      "Suspected hormone disruption"
+    ],
+    "scientific_summary": "A close relative of BHA used as a food and packaging preservative; evidence for endocrine effects is weaker but still under study.",
+    "regulatory_status": "Permitted with limits in most countries.",
+    "recommendations": [
+      "Choose minimally processed foods when possible"
+    ]
+  },
+  "Tertiary Butylhydroquinone": {
+    "aliases": [
+      "TBHQ",
+      "INS 319",
+      "E319"
+    ],
+    "category": "Food Antioxidant",
+    "is_edc": true,
+    "risk_level": "Low",
+    "found_in": [
+      "Packaged snack foods",
+      "Instant noodles",
+      "Cooking oils",
+      "Fast food"
+    ],
+    "health_effects": [
+      "Weak/inconclusive estrogenic activity in lab screening"
+    ],
+    "scientific_summary": "A synthetic antioxidant that keeps oils and fats from going rancid. High-throughput lab screening has flagged very weak estrogenic/androgenic activity, but regulatory reviews describe the evidence for real-world endocrine effects as inconclusive.",
+    "regulatory_status": "Permitted with limits in the US and EU (E319); intake limits set for infants and children.",
+    "recommendations": [
+      "Choose foods preserved with vitamin E (tocopherols) where labeled, as a lower-uncertainty alternative"
+    ]
+  },
+  "Propyl Gallate": {
+    "aliases": [
+      "INS 310",
+      "E310",
+      "PG"
+    ],
+    "category": "Food Antioxidant",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Vegetable oils",
+      "Meat products",
+      "Chewing gum",
+      "Cosmetics"
+    ],
+    "health_effects": [
+      "Suspected estrogenic activity",
+      "Hormone disruption in animal studies"
+    ],
+    "scientific_summary": "An antioxidant preservative structurally related to other gallate compounds; some in-vitro and animal studies suggest estrogenic activity, though it's less studied than BHA/BHT.",
+    "regulatory_status": "Permitted with limits in most countries.",
+    "recommendations": [
+      "Choose minimally processed oils and foods where possible"
+    ]
+  },
+  "Sodium Nitrite": {
+    "aliases": [
+      "INS 250",
+      "E250"
+    ],
+    "category": "Food Preservative",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Bacon",
+      "Ham",
+      "Hot dogs",
+      "Cured/processed meats"
+    ],
+    "health_effects": [
+      "Thyroid iodide-uptake inhibition",
+      "Forms nitrosamines when heated (separate carcinogen concern)"
+    ],
+    "scientific_summary": "Used to cure meat and prevent botulism; nitrite and its relative nitrate can inhibit iodide uptake by the thyroid, the same mechanism seen with perchlorate, and separately form nitrosamines linked to cancer risk when meat is cooked at high heat.",
+    "regulatory_status": "Permitted with limits in the US and EU; usage levels have been progressively tightened.",
+    "recommendations": [
+      "Limit processed/cured meat intake",
+      "Look for products cured with celery powder + starter culture (naturally occurring nitrate) if seeking an alternative — note this doesn't eliminate the nitrite exposure, just its source"
+    ]
+  },
+  "Potassium Nitrate": {
+    "aliases": [
+      "Saltpeter",
+      "INS 252",
+      "E252"
+    ],
+    "category": "Food Preservative",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Cured meats",
+      "Some cheeses",
+      "Preserved fish"
+    ],
+    "health_effects": [
+      "Thyroid iodide-uptake inhibition"
+    ],
+    "scientific_summary": "A curing salt and nitrite precursor with the same thyroid-related mechanism of concern as sodium nitrite.",
+    "regulatory_status": "Permitted with limits in most countries.",
+    "recommendations": [
+      "Limit intake of heavily cured/preserved meats and cheeses"
+    ]
+  },
+  "Phenoxyethanol": {
+    "aliases": [
+      "2-Phenoxyethanol",
+      "PhE"
+    ],
+    "category": "Preservative",
+    "is_edc": true,
+    "risk_level": "Low",
+    "found_in": [
+      "Cosmetics",
+      "Skincare (paraben-free formulas)",
+      "Vaccines (trace amounts)"
+    ],
+    "health_effects": [
+      "Weak estrogenic activity reported in some studies; not confirmed at real-world exposure"
+    ],
+    "scientific_summary": "A common paraben alternative in 'clean' skincare. Major regulatory reviews (EU SCCS, EPA screening) have found no significant endocrine effect at the concentrations used in cosmetics, though a small number of studies report weak estrogenic activity — evidence and consensus lean toward low concern.",
+    "regulatory_status": "Permitted up to 1% concentration in the EU; generally recognized as safe in the US.",
+    "recommendations": [
+      "Low priority for avoidance compared to parabens or phthalates, based on current evidence"
+    ]
+  },
+  "Diazolidinyl Urea": {
+    "aliases": [
+      "Diazolidinyl Urea"
+    ],
+    "category": "Preservative",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Shampoos",
+      "Lotions",
+      "Cosmetics"
+    ],
+    "health_effects": [
+      "Releases formaldehyde over time",
+      "Hormone disruption via formaldehyde exposure"
+    ],
+    "scientific_summary": "A formaldehyde-releasing preservative; it slowly breaks down to release small amounts of formaldehyde, itself linked to hormone disruption and classified as a human carcinogen.",
+    "regulatory_status": "Permitted with concentration limits; formaldehyde release must be disclosed above certain thresholds in the EU.",
+    "recommendations": [
+      "Choose products preserved without formaldehyde-releasers if sensitive"
+    ]
+  },
+  "Imidazolidinyl Urea": {
+    "aliases": [
+      "Imidazolidinyl Urea"
+    ],
+    "category": "Preservative",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Shampoos",
+      "Conditioners",
+      "Cosmetics"
+    ],
+    "health_effects": [
+      "Releases formaldehyde over time",
+      "Hormone disruption via formaldehyde exposure"
+    ],
+    "scientific_summary": "Closely related to diazolidinyl urea; another formaldehyde-releasing preservative used to extend shelf life in water-based cosmetics.",
+    "regulatory_status": "Permitted with concentration limits in most countries.",
+    "recommendations": [
+      "Choose products preserved without formaldehyde-releasers if sensitive"
+    ]
+  },
+  "Quaternium-15": {
+    "aliases": [
+      "Quaternium-15"
+    ],
+    "category": "Preservative",
+    "is_edc": true,
+    "risk_level": "Medium-High",
+    "found_in": [
+      "Shampoos",
+      "Cosmetics",
+      "Some cleaning products"
+    ],
+    "health_effects": [
+      "One of the strongest formaldehyde-releasing preservatives",
+      "Hormone disruption via formaldehyde exposure"
+    ],
+    "scientific_summary": "A formaldehyde-releasing preservative considered one of the more potent releasers in this category, meaning higher formaldehyde exposure per use compared to alternatives like DMDM hydantoin.",
+    "regulatory_status": "Restricted concentration limits in cosmetics in the EU.",
+    "recommendations": [
+      "Choose formaldehyde-free labeled hair and skin products where sensitive"
+    ]
+  },
+  "Butylphenyl Methylpropional": {
+    "aliases": [
+      "Lilial",
+      "BMHCA",
+      "p-BMHCA"
+    ],
+    "category": "Fragrance Ingredient",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Perfumes",
+      "Shampoos and conditioners",
+      "Household cleaners and detergents"
+    ],
+    "health_effects": [
+      "Reproductive toxicity",
+      "Impaired fertility",
+      "Fetal developmental harm"
+    ],
+    "scientific_summary": "A synthetic floral fragrance ingredient found by EU regulators to impair fertility and fetal development in animal studies, leading to a full cosmetics ban.",
+    "regulatory_status": "Banned in cosmetic products in the EU since March 2022 (classified Repr. 1B); still permitted in some non-EU markets, including the US.",
+    "recommendations": [
+      "Check ingredient lists for 'Lilial' or 'Butylphenyl Methylpropional' in fragranced products, especially if imported from outside the EU"
+    ]
+  },
+  "Diisobutyl Phthalate": {
+    "aliases": [
+      "DIBP"
+    ],
+    "category": "Phthalate",
+    "is_edc": true,
+    "risk_level": "Medium-High",
+    "found_in": [
+      "Nail polish",
+      "Fragrances",
+      "Some flexible plastics"
+    ],
+    "health_effects": [
+      "Anti-androgenic activity",
+      "Reproductive developmental effects"
+    ],
+    "scientific_summary": "A phthalate plasticizer and fragrance-fixing agent with anti-androgenic effects similar to DBP, its close chemical relative.",
+    "regulatory_status": "Restricted in children's products and cosmetics in the EU; under review in the US.",
+    "recommendations": [
+      "Choose phthalate-free labeled nail polish and fragrance products"
+    ]
+  },
+  "Dicyclohexyl Phthalate": {
+    "aliases": [
+      "DCHP"
+    ],
+    "category": "Phthalate",
+    "is_edc": true,
+    "risk_level": "Medium-High",
+    "found_in": [
+      "Some adhesives",
+      "Nail polish",
+      "Plastic coatings"
+    ],
+    "health_effects": [
+      "Anti-androgenic activity",
+      "Reproductive toxicity"
+    ],
+    "scientific_summary": "A less common phthalate with documented anti-androgenic activity, identified as a substance of very high concern by EU regulators.",
+    "regulatory_status": "Listed as a Substance of Very High Concern (SVHC) under EU REACH; restricted in several jurisdictions.",
+    "recommendations": [
+      "Choose phthalate-free labeled cosmetics and nail products"
+    ]
+  },
+  "Bisphenol B": {
+    "aliases": [
+      "BPB"
+    ],
+    "category": "Bisphenol",
+    "is_edc": true,
+    "risk_level": "Medium-High",
+    "found_in": [
+      "Some plastic packaging",
+      "Epoxy resin substitutes"
+    ],
+    "health_effects": [
+      "Estrogenic activity, in some studies stronger than BPA"
+    ],
+    "scientific_summary": "A less common BPA-substitute bisphenol; several studies suggest it may bind estrogen receptors even more strongly than BPA.",
+    "regulatory_status": "Not as widely regulated as BPA yet, but under increasing scientific and regulatory scrutiny.",
+    "recommendations": [
+      "Treat 'BPA-free' labels with caution — substitute bisphenols aren't always safer"
+    ]
+  },
+  "Perfluorobutane Sulfonate": {
+    "aliases": [
+      "PFBS"
+    ],
+    "category": "PFAS",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Water-resistant fabrics",
+      "Some cosmetics",
+      "Firefighting foam residue"
+    ],
+    "health_effects": [
+      "Thyroid hormone disruption"
+    ],
+    "scientific_summary": "A short-chain PFAS developed as a replacement for longer-chain 'forever chemicals'; considered less bioaccumulative but still linked to thyroid effects.",
+    "regulatory_status": "Regulated in drinking water in several US states; under review in the EU.",
+    "recommendations": [
+      "Use a water filter certified for PFAS removal if in an affected area"
+    ]
+  },
+  "Perfluorodecanoic Acid": {
+    "aliases": [
+      "PFDA"
+    ],
+    "category": "PFAS",
+    "is_edc": true,
+    "risk_level": "High",
+    "found_in": [
+      "Non-stick cookware residues",
+      "Water-resistant textiles"
+    ],
+    "health_effects": [
+      "Thyroid disruption",
+      "Developmental and reproductive effects"
+    ],
+    "scientific_summary": "A long-chain 'forever chemical' in the same PFAS family as PFOA, with similar persistence and endocrine concerns.",
+    "regulatory_status": "Increasingly restricted alongside other long-chain PFAS in the EU and US.",
+    "recommendations": [
+      "Choose PFAS-free cookware and water-resistant gear where labeled"
+    ]
+  },
+  "Nonylphenol Ethoxylates": {
+    "aliases": [
+      "NPEs",
+      "NPnEO"
+    ],
+    "category": "Alkylphenol",
+    "is_edc": true,
+    "risk_level": "Medium-High",
+    "found_in": [
+      "Detergents",
+      "Some cosmetic surfactants",
+      "Industrial cleaning products"
+    ],
+    "health_effects": [
+      "Breaks down into nonylphenol, a known estrogen mimic"
+    ],
+    "scientific_summary": "A surfactant that degrades in the environment into nonylphenol, itself a well-established endocrine disruptor, effectively extending nonylphenol's reach into wastewater and consumer products.",
+    "regulatory_status": "Restricted in detergents and textiles in the EU; use declining in the US under voluntary phase-outs.",
+    "recommendations": [
+      "Choose NPE-free labeled detergents and cleaning products"
+    ]
+  },
+  "Triethanolamine": {
+    "aliases": [
+      "TEA"
+    ],
+    "category": "Surfactant/pH Adjuster",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Shampoos",
+      "Liquid soaps",
+      "Sunscreens",
+      "Cleaning products"
+    ],
+    "health_effects": [
+      "Can form nitrosamines (linked to hormone and cancer concerns) when combined with nitrite preservatives"
+    ],
+    "scientific_summary": "A common foaming agent and pH adjuster; on its own it has limited direct endocrine evidence, but it can react with nitrite-releasing preservatives to form nitrosamines, a separate class of hormone- and cancer-linked compounds.",
+    "regulatory_status": "Permitted with concentration limits in cosmetics in the EU and US.",
+    "recommendations": [
+      "Avoid pairing products containing TEA with those listing nitrite-releasing preservatives, where labeled"
+    ]
+  },
+  "Diethanolamine": {
+    "aliases": [
+      "DEA"
+    ],
+    "category": "Surfactant/pH Adjuster",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Shampoos",
+      "Bubble bath",
+      "Liquid soaps"
+    ],
+    "health_effects": [
+      "Nitrosamine formation risk",
+      "Suspected hormone disruption"
+    ],
+    "scientific_summary": "Structurally related to TEA and used for similar foaming/pH-adjusting purposes; shares the same nitrosamine-formation concern and is separately restricted in some regions.",
+    "regulatory_status": "Banned in cosmetics in the EU; permitted with limits in the US.",
+    "recommendations": [
+      "Choose DEA-free labeled shampoos and soaps"
+    ]
+  },
+  "Aluminum Chlorohydrate": {
+    "aliases": [
+      "Aluminum Chloride",
+      "ACH"
+    ],
+    "category": "Metal Compound",
+    "is_edc": true,
+    "risk_level": "Low",
+    "found_in": [
+      "Antiperspirants",
+      "Deodorants"
+    ],
+    "health_effects": [
+      "Suspected estrogen-like activity in some in-vitro studies; evidence remains contested"
+    ],
+    "scientific_summary": "The active sweat-blocking ingredient in most antiperspirants. Some laboratory studies have suggested weak estrogen-like activity, but major regulatory reviews have not confirmed meaningful endocrine effects at normal use levels, and the evidence is considered low-consensus.",
+    "regulatory_status": "Permitted in antiperspirants in the EU and US; under ongoing scientific review.",
+    "recommendations": [
+      "Low priority for avoidance compared to higher-certainty EDCs, based on current evidence"
+    ]
+  },
+  "Boric Acid": {
+    "aliases": [
+      "Borax",
+      "Sodium Borate"
+    ],
+    "category": "Industrial Chemical",
+    "is_edc": true,
+    "risk_level": "Medium-High",
+    "found_in": [
+      "Some cosmetics and bath products",
+      "Slime and craft products",
+      "Insect control products"
+    ],
+    "health_effects": [
+      "Reproductive and developmental toxicity in animal studies"
+    ],
+    "scientific_summary": "A mineral-based compound used as a preservative and pH buffer in some cosmetics; animal studies have shown reproductive and developmental effects at higher exposure levels.",
+    "regulatory_status": "Restricted concentration limits in cosmetics in the EU; banned in some children's products.",
+    "recommendations": [
+      "Supervise children's use of borax-based slime and craft products",
+      "Check labels on bath products for boric acid or borax"
+    ]
+  },
+  "Cyclohexasiloxane": {
+    "aliases": [
+      "D6"
+    ],
+    "category": "Silicone",
+    "is_edc": true,
+    "risk_level": "Low",
+    "found_in": [
+      "Skincare",
+      "Hair conditioners",
+      "Cosmetics"
+    ],
+    "health_effects": [
+      "Limited evidence of hormone disruption compared to D4/D5, but grouped with the same chemical family"
+    ],
+    "scientific_summary": "A larger cyclic silicone in the same family as D4 and D5, used for a silky skin feel; less studied individually, but reviewed alongside its better-documented relatives.",
+    "regulatory_status": "Not specifically restricted, unlike D4 and D5, which face EU limits.",
+    "recommendations": [
+      "Choose silicone-free labeled products if minimizing this chemical family"
+    ]
+  },
+  "Benzylparaben": {
+    "aliases": [
+      "BzP"
+    ],
+    "category": "Paraben",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Some cosmetics",
+      "Topical pharmaceuticals"
+    ],
+    "health_effects": [
+      "Estrogen mimicry"
+    ],
+    "scientific_summary": "A less commonly used, longer-chain paraben with estrogenic activity broadly similar to other parabens in its class.",
+    "regulatory_status": "Permitted with limits in most countries; less scrutinized than butyl- or propylparaben.",
+    "recommendations": [
+      "Choose paraben-free labeled products"
+    ]
+  },
+  "2,4-Dichlorophenoxyacetic Acid": {
+    "aliases": [
+      "2,4-D"
+    ],
+    "category": "Herbicide",
+    "is_edc": true,
+    "risk_level": "Medium",
+    "found_in": [
+      "Agricultural runoff",
+      "Lawn and garden herbicides",
+      "Non-organic grains"
+    ],
+    "health_effects": [
+      "Suspected hormone and thyroid disruption",
+      "Reproductive effects in animal studies"
+    ],
+    "scientific_summary": "One of the most widely used herbicides worldwide; evidence for endocrine effects is less consistent than for atrazine, and its overall risk classification is still debated among regulators.",
+    "regulatory_status": "Approved with restrictions in the US and EU; under periodic re-evaluation.",
+    "recommendations": [
+      "Choose organic produce and grains where feasible"
+    ]
+  }
+}
