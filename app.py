@@ -1,3 +1,4 @@
+
 import os
 import sys
 import io
@@ -749,17 +750,26 @@ with tab_scan:
         if uploaded and client:
             with st.spinner("Reading the label..."):
                 img = Image.open(uploaded)
-                ocr_response = client.models.generate_content(
-                    model="gemini-2.5-flash",
-                    contents=[
-                        img,
-                        "Extract every ingredient name from this product label image. "
-                        "Return ONLY a comma-separated list of ingredient names, nothing else — "
-                        "no numbering, no extra commentary.",
-                    ],
-                )
-                raw_ingredients_text = ocr_response.text or ""
-                product_name = "Scanned label"
+                try:
+                    ocr_response = client.models.generate_content(
+                        model="gemini-3.6-flash",
+                        contents=[
+                            img,
+                            "Extract every ingredient name from this product label image. "
+                            "Return ONLY a comma-separated list of ingredient names, nothing else — "
+                            "no numbering, no extra commentary.",
+                        ],
+                    )
+                    raw_ingredients_text = ocr_response.text or ""
+                    product_name = "Scanned label"
+                except Exception as e:
+                    st.error(
+                        f"Gemini API error while reading the label: {e}\n\n"
+                        "Common causes: an invalid/expired API key, the key's free-tier quota "
+                        "being exceeded, or the Generative Language API not being enabled for "
+                        "the key's Google Cloud project."
+                    )
+                    raw_ingredients_text = ""
  
         if not raw_ingredients_text or not raw_ingredients_text.strip():
             st.warning("I couldn't find any ingredients. Try a clearer photo, or paste the list manually.")
@@ -958,12 +968,21 @@ with tab_chat:
  
             with st.chat_message("assistant"):
                 with st.spinner("Thinking..."):
-                    response = client.models.generate_content(
-                        model="gemini-2.5-flash",
-                        contents=prompt + context,
-                        config={"system_instruction": SYSTEM_PROMPT},
-                    )
-                    st.write(response.text)
-            st.session_state.messages.append({"role": "assistant", "content": response.text})
+                    try:
+                        response = client.models.generate_content(
+                            model="gemini-3.6-flash",
+                            contents=prompt + context,
+                            config={"system_instruction": SYSTEM_PROMPT},
+                        )
+                        reply_text = response.text
+                    except Exception as e:
+                        reply_text = (
+                            f"⚠️ Gemini API error: {e}\n\n"
+                            "Common causes: an invalid/expired API key, the key's free-tier "
+                            "quota being exceeded, or the Generative Language API not being "
+                            "enabled for the key's Google Cloud project."
+                        )
+                    st.write(reply_text)
+            st.session_state.messages.append({"role": "assistant", "content": reply_text})
         else:
             st.error("No GEMINI_API_KEY found.")
